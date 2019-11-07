@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### 블로그의 목적
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+이 블로그는 2019년 가을학기 GIST(광주과학기술원)<br>전산동아리 WING의 프로젝트를 계기로 제작되었습니다.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+처음 프론트엔드를 공부하며 알게 된 것들을 정리하고자 합니다.<br>
+부족한 부분과 오류가 있을 수 있지만 차근차근 수정해 나갈 것입니다.
