@@ -1,6 +1,5 @@
 ---
 layout: post
-permalink: /about/
 ---
 
 ### 블로그의 목적
